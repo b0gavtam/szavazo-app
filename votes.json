@@ -31,7 +31,7 @@
     { "id": 7, "temaId": 1, "opcio": "Kifli" },
     { "id": 8, "temaId": 1, "opcio": "Szilvás papucs" },
     { "id": 9, "temaId": 1, "opcio": "Lidlis jalapeno csiga" },
-    { "id": 10, "temaId": 1, "opcio": "Lidlis szilvalekváros batyú" },
+    { "id": 10, "temaId": 1, "opcio": "Lidlis szilvalekváros batyu" },
     { "id": 11, "temaId": 1, "opcio": "Lidlis belga csokis-meggyes párna" }
   ],
   "szavazatok": [
